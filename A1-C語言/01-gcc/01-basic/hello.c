@@ -1,5 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-  printf("Hello!\n");
+  system("chcp 65001 & cls");
+  printf("Hello!你好\n");
 }
